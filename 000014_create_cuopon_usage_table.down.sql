@@ -1,0 +1,1 @@
+DROP TABLE "cuopon_usage";
